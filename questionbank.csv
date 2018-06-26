@@ -1,0 +1,4 @@
+number,question,prevalence,sensitivity,specificity
+1,Move only the sensitivity slider to make the chance of having the disease given a positive test 50%,,,
+2,Move only the specificity slider to make the chance of having the disease given a positive test 50%,,,
+3,Move only the prevalence slider to make the chance of having the disease given a positive test 50%,,,
